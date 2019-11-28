@@ -1,2 +1,5 @@
 # Ignore binaries
 *.bin
+
+#Ignore OS files
+.DS_Store
