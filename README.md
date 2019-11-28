@@ -2,4 +2,4 @@
 
 My keymaps for QMK boards.
 
-Generated at (QMK Configurator)[config.qmk.fm]
+Generated at [QMK Configurator](config.qmk.fm)
